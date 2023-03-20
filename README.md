@@ -1,4 +1,7 @@
 # mineSweeper
+to download:
+1. click the line that says .jar
+2. click download
 
 to run:
 1. copy path of JAR
